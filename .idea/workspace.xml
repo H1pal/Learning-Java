@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="13" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Java" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.7527102908317298" />
+      <entry key="MS500" value="2.098853588850253" />
+      <entry key="S2" value="2.6356097145043886" />
+      <entry key="S5" value="3.4326066109836977" />
+      <entry key="S10" value="4.797344382033264" />
+      <entry key="S30" value="7.040626959285816" />
+      <entry key="S60" value="8.001798499815099" />
+      <entry key="M2" value="9.543775403310164" />
+      <entry key="M5" value="20.852621103206964" />
+      <entry key="M10" value="51.264709755863436" />
+      <entry key="M15" value="81.88401771979632" />
+      <entry key="M30" value="150.5730058307612" />
+      <entry key="H1" value="220.2736316473496" />
+      <entry key="H2" value="273.0742305125479" />
+      <entry key="H4" value="306.17636878019516" />
+      <entry key="D1" value="338.08344154821356" />
+      <entry key="W1" value="344.00029477111394" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="7.563376270819519E-236" />
+      <entry key="S2" value="1.658360430471094E-59" />
+      <entry key="S5" value="3.075187287519716E-24" />
+      <entry key="S10" value="1.7536211930290184E-12" />
+      <entry key="S30" value="1.2076770906946566E-4" />
+      <entry key="S60" value="0.01198338582694932" />
+      <entry key="M2" value="0.1851308933460624" />
+      <entry key="M5" value="1.6873297750348035" />
+      <entry key="M10" value="4.982375511671733" />
+      <entry key="M15" value="8.291403085898882" />
+      <entry key="M30" value="16.0848727277752" />
+      <entry key="H1" value="24.411316332373005" />
+      <entry key="H2" value="30.92143018589947" />
+      <entry key="H4" value="35.07288055472583" />
+      <entry key="D1" value="39.11798910171659" />
+      <entry key="W1" value="39.872407724626555" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.823891618024937" />
+      <entry key="MS500" value="1.1903860037889775" />
+      <entry key="S2" value="2.0988169783831423" />
+      <entry key="S5" value="3.149820609826689" />
+      <entry key="S10" value="4.628549031597465" />
+      <entry key="S30" value="6.971493389077686" />
+      <entry key="S60" value="7.976499535651684" />
+      <entry key="M2" value="9.708179233140282" />
+      <entry key="M5" value="22.523401635038752" />
+      <entry key="M10" value="56.22750874311173" />
+      <entry key="M15" value="90.15440697383873" />
+      <entry key="M30" value="166.63727444432195" />
+      <entry key="H1" value="244.6687346432065" />
+      <entry key="H2" value="303.98509606743147" />
+      <entry key="H4" value="341.2431559051096" />
+      <entry key="D1" value="377.200280400658" />
+      <entry key="W1" value="383.8725345437864" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HqhcDg2yLqiVAmOFNpaR3iBWqG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Java [:org.example.Main.main()].executor": "Run",
+    "Gradle.Java [assemble].executor": "Run",
+    "Gradle.Java [buildDependents].executor": "Run",
+    "Gradle.Java [build].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/gmlvkf282/Desktop/Java-Subject/Java/mai/src/Main.java",
+    "project.structure.last.edited": "모듈",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "애플리케이션.BooleanEx.executor": "Run",
+    "애플리케이션.CharacterEx1.executor": "Run",
+    "애플리케이션.CharacterEx3.executor": "Run",
+    "애플리케이션.DoubleEx1.executor": "Run",
+    "애플리케이션.ExplicitConversion1.executor": "Run",
+    "애플리케이션.HelloWorld.executor": "Run",
+    "애플리케이션.ImplicitConversion1.executor": "Run",
+    "애플리케이션.ImplicitConversion2.executor": "Run",
+    "애플리케이션.Variable1.executor": "Run",
+    "애플리케이션.Variable2.executor": "Run",
+    "애플리케이션.hello.HelloWorld.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chapter2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.ExplicitConversion2">
+    <configuration name="ExplicitConversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ExplicitConversion1" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitConversion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ExplicitConversion2" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitConversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ImplicitConversion1" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImplicitConversion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ImplicitConversion2" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.Variable2" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.ExplicitConversion2" />
+        <item itemvalue="애플리케이션.ExplicitConversion1" />
+        <item itemvalue="애플리케이션.ImplicitConversion2" />
+        <item itemvalue="애플리케이션.ImplicitConversion1" />
+        <item itemvalue="애플리케이션.Variable2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="" />
+      <created>1786601586577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1786601586577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
