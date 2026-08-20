@@ -4,14 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="" />
+    <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/chapter2/IntegerExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/chapter2/ScopeAssignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/chapter2/VarAssignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/chapter2/VarAssignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/chapter2/VarAssignment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/chapter2/VarAssignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/hello/operator/OperationEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/hello/operator/OperationEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/hello/operator/OperationEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/hello/operator/OperationEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/chapter2/ExplicitConversion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/ExplicitConversion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/chapter2/ExplicitConversion2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/chapter2/ExplicitConversion2.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="13" />
+    <option name="cachedIndexableFilesCount" value="20" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -45,67 +60,70 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.7527102908317298" />
-      <entry key="MS500" value="2.098853588850253" />
-      <entry key="S2" value="2.6356097145043886" />
-      <entry key="S5" value="3.4326066109836977" />
-      <entry key="S10" value="4.797344382033264" />
-      <entry key="S30" value="7.040626959285816" />
-      <entry key="S60" value="8.001798499815099" />
-      <entry key="M2" value="9.543775403310164" />
-      <entry key="M5" value="20.852621103206964" />
-      <entry key="M10" value="51.264709755863436" />
-      <entry key="M15" value="81.88401771979632" />
-      <entry key="M30" value="150.5730058307612" />
-      <entry key="H1" value="220.2736316473496" />
-      <entry key="H2" value="273.0742305125479" />
-      <entry key="H4" value="306.17636878019516" />
-      <entry key="D1" value="338.08344154821356" />
-      <entry key="W1" value="344.00029477111394" />
+      <entry key="MS100" value="0.06121376859918292" />
+      <entry key="MS500" value="0.5719654866085596" />
+      <entry key="S2" value="0.8725208306987745" />
+      <entry key="S5" value="1.2525193827008896" />
+      <entry key="S10" value="2.751935590544277" />
+      <entry key="S30" value="7.225185215376958" />
+      <entry key="S60" value="9.743383920664277" />
+      <entry key="M2" value="13.139489160142084" />
+      <entry key="M5" value="26.095082379785392" />
+      <entry key="M10" value="46.64268327955339" />
+      <entry key="M15" value="66.41503964790105" />
+      <entry key="M30" value="133.96222897725042" />
+      <entry key="H1" value="260.08175248799415" />
+      <entry key="H2" value="407.0705141199231" />
+      <entry key="H4" value="525.3407932428363" />
+      <entry key="D1" value="660.0145593407404" />
+      <entry key="W1" value="687.3141193267162" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="7.563376270819519E-236" />
-      <entry key="S2" value="1.658360430471094E-59" />
-      <entry key="S5" value="3.075187287519716E-24" />
-      <entry key="S10" value="1.7536211930290184E-12" />
-      <entry key="S30" value="1.2076770906946566E-4" />
-      <entry key="S60" value="0.01198338582694932" />
-      <entry key="M2" value="0.1851308933460624" />
-      <entry key="M5" value="1.6873297750348035" />
-      <entry key="M10" value="4.982375511671733" />
-      <entry key="M15" value="8.291403085898882" />
-      <entry key="M30" value="16.0848727277752" />
-      <entry key="H1" value="24.411316332373005" />
-      <entry key="H2" value="30.92143018589947" />
-      <entry key="H4" value="35.07288055472583" />
-      <entry key="D1" value="39.11798910171659" />
-      <entry key="W1" value="39.872407724626555" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000003433" />
+      <entry key="S2" value="1.0007653991928145" />
+      <entry key="S5" value="1.0566963629489783" />
+      <entry key="S10" value="1.2381099807841571" />
+      <entry key="S30" value="1.6199267625949456" />
+      <entry key="S60" value="1.8103932084124532" />
+      <entry key="M2" value="2.2272813059831416" />
+      <entry key="M5" value="3.8775979860025354" />
+      <entry key="M10" value="5.97147247304465" />
+      <entry key="M15" value="7.548903486379716" />
+      <entry key="M30" value="12.28439737417616" />
+      <entry key="H1" value="22.001268989830727" />
+      <entry key="H2" value="34.55439597891487" />
+      <entry key="H4" value="45.26613077857664" />
+      <entry key="D1" value="57.93197185279435" />
+      <entry key="W1" value="60.54923675014856" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.823891618024937" />
-      <entry key="MS500" value="1.1903860037889775" />
-      <entry key="S2" value="2.0988169783831423" />
-      <entry key="S5" value="3.149820609826689" />
-      <entry key="S10" value="4.628549031597465" />
-      <entry key="S30" value="6.971493389077686" />
-      <entry key="S60" value="7.976499535651684" />
-      <entry key="M2" value="9.708179233140282" />
-      <entry key="M5" value="22.523401635038752" />
-      <entry key="M10" value="56.22750874311173" />
-      <entry key="M15" value="90.15440697383873" />
-      <entry key="M30" value="166.63727444432195" />
-      <entry key="H1" value="244.6687346432065" />
-      <entry key="H2" value="303.98509606743147" />
-      <entry key="H4" value="341.2431559051096" />
-      <entry key="D1" value="377.200280400658" />
-      <entry key="W1" value="383.8725345437864" />
+      <entry key="MS100" value="0.17927685164710874" />
+      <entry key="MS500" value="1.0328185156682366" />
+      <entry key="S2" value="1.6757451077249088" />
+      <entry key="S5" value="2.2058859364601755" />
+      <entry key="S10" value="3.90537618806067" />
+      <entry key="S30" value="8.790483187895058" />
+      <entry key="S60" value="11.519486571384213" />
+      <entry key="M2" value="15.343424642689339" />
+      <entry key="M5" value="29.953409809446605" />
+      <entry key="M10" value="52.59741763674003" />
+      <entry key="M15" value="73.94847792043575" />
+      <entry key="M30" value="146.23176796608482" />
+      <entry key="H1" value="282.0683965324307" />
+      <entry key="H2" value="441.6129578613534" />
+      <entry key="H4" value="570.5989508552544" />
+      <entry key="D1" value="717.9448049492098" />
+      <entry key="W1" value="747.8630976692248" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -126,9 +144,11 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -149,9 +169,18 @@
     "애플리케이션.CharacterEx3.executor": "Run",
     "애플리케이션.DoubleEx1.executor": "Run",
     "애플리케이션.ExplicitConversion1.executor": "Run",
+    "애플리케이션.ExplicitConversion2.executor": "Run",
     "애플리케이션.HelloWorld.executor": "Run",
     "애플리케이션.ImplicitConversion1.executor": "Run",
     "애플리케이션.ImplicitConversion2.executor": "Run",
+    "애플리케이션.OperationEx1.executor": "Run",
+    "애플리케이션.OperationEx2.executor": "Run",
+    "애플리케이션.OperationEx3.executor": "Run",
+    "애플리케이션.OperationEx4.executor": "Run",
+    "애플리케이션.ScopeAssignment.executor": "Run",
+    "애플리케이션.VarAssignment1.executor": "Run",
+    "애플리케이션.VarAssignment2.executor": "Run",
+    "애플리케이션.VarAssignment3.executor": "Run",
     "애플리케이션.Variable1.executor": "Run",
     "애플리케이션.Variable2.executor": "Run",
     "애플리케이션.hello.HelloWorld.executor": "Run"
@@ -159,16 +188,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hello.operator" />
       <recent name="chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ExplicitConversion2">
-    <configuration name="ExplicitConversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.ExplicitConversion1" />
+  <component name="RunManager" selected="애플리케이션.OperationEx4">
+    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.operator.OperationEx1" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="hello.operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +206,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplicitConversion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.ExplicitConversion2" />
+    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.operator.OperationEx2" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="hello.operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplicitConversion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.ImplicitConversion1" />
+    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.operator.OperationEx3" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="hello.operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplicitConversion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.ImplicitConversion2" />
+    <configuration name="OperationEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.operator.OperationEx4" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="hello.operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,8 +245,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.Variable2" />
+    <configuration name="ScopeAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2.ScopeAssignment" />
       <module name="java" />
       <extension name="coverage">
         <pattern>
@@ -230,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ExplicitConversion2" />
-        <item itemvalue="애플리케이션.ExplicitConversion1" />
-        <item itemvalue="애플리케이션.ImplicitConversion2" />
-        <item itemvalue="애플리케이션.ImplicitConversion1" />
-        <item itemvalue="애플리케이션.Variable2" />
+        <item itemvalue="애플리케이션.OperationEx4" />
+        <item itemvalue="애플리케이션.OperationEx3" />
+        <item itemvalue="애플리케이션.OperationEx2" />
+        <item itemvalue="애플리케이션.OperationEx1" />
+        <item itemvalue="애플리케이션.ScopeAssignment" />
       </list>
     </recent_temporary>
   </component>
