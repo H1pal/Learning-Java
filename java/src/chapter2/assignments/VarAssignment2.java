@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2.assignments;
 
 public class VarAssignment2 {
     public static void main(String[] args) {

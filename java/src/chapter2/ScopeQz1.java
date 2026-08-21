@@ -1,6 +1,6 @@
 package chapter2;
 
-public class ScopeAssignment {
+public class ScopeQz1 {
     public static void main(String[] args) {
         int a = 10; // a의 스코프: main의 범위 (5행 ~ 12행)
         {

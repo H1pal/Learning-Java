@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2.assignments;
 /*
 1. long형 변수 population을 선언하고 5000000000을 저장한 후 출력하세요.
 2. boolean형 변수 isStudent를 선언하고 false를 저장한 후 출력하세요.

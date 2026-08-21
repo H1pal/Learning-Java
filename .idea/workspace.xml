@@ -4,29 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/chapter2/IntegerExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/chapter2/ScopeAssignment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/chapter2/VarAssignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/chapter2/VarAssignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/chapter2/VarAssignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/chapter2/VarAssignment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/hello/operator/OperationEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/hello/operator/OperationEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/hello/operator/OperationEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/hello/operator/OperationEx4.java" afterDir="false" />
+    <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="변경">
+      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/conditional/IfEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/conditional/IfEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/operator/OperationEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/operator/quiz/OperationQz4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/operator/quiz/OperationQz5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/chapter2/ExplicitConversion2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/ExplicitConversion2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/chapter2/ExplicitConversion2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/chapter2/ExplicitConversion2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/chapter2/ScopeAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/ScopeQz1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/chapter2/VarAssignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/assignments/VarAssignment1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/chapter2/VarAssignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/assignments/VarAssignment2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/chapter2/VarAssignment3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/assignments/VarAssignment3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/chapter2/VarAssignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/assignments/VarAssignment4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/hello/operator/OperationEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/operator/OperationEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/hello/operator/OperationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/operator/OperationEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/hello/operator/OperationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/operator/OperationEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/hello/operator/OperationEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/operator/OperationEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/chapter2/ScopeAssignment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/hello/operator/OperationEx1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/hello/operator/OperationEx2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/hello/operator/OperationEx3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/hello/operator/OperationEx4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="20" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -69,62 +83,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.06121376859918292" />
-      <entry key="MS500" value="0.5719654866085596" />
-      <entry key="S2" value="0.8725208306987745" />
-      <entry key="S5" value="1.2525193827008896" />
-      <entry key="S10" value="2.751935590544277" />
-      <entry key="S30" value="7.225185215376958" />
-      <entry key="S60" value="9.743383920664277" />
-      <entry key="M2" value="13.139489160142084" />
-      <entry key="M5" value="26.095082379785392" />
-      <entry key="M10" value="46.64268327955339" />
-      <entry key="M15" value="66.41503964790105" />
-      <entry key="M30" value="133.96222897725042" />
-      <entry key="H1" value="260.08175248799415" />
-      <entry key="H2" value="407.0705141199231" />
-      <entry key="H4" value="525.3407932428363" />
-      <entry key="D1" value="660.0145593407404" />
-      <entry key="W1" value="687.3141193267162" />
+      <entry key="MS100" value="5.570135331388788E-4" />
+      <entry key="MS500" value="0.22345741431798763" />
+      <entry key="S2" value="0.7459630694251357" />
+      <entry key="S5" value="1.3116768401457994" />
+      <entry key="S10" value="2.6098696769003147" />
+      <entry key="S30" value="9.870270622137724" />
+      <entry key="S60" value="17.48054605416709" />
+      <entry key="M2" value="25.97491002542647" />
+      <entry key="M5" value="40.83243409469227" />
+      <entry key="M10" value="58.52005542737774" />
+      <entry key="M15" value="79.02074824751396" />
+      <entry key="M30" value="162.9069731618715" />
+      <entry key="H1" value="338.5075307706582" />
+      <entry key="H2" value="583.3654033048285" />
+      <entry key="H4" value="815.4899032305706" />
+      <entry key="D1" value="1118.1822201320754" />
+      <entry key="W1" value="1184.4588427654517" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000000003433" />
-      <entry key="S2" value="1.0007653991928145" />
-      <entry key="S5" value="1.0566963629489783" />
-      <entry key="S10" value="1.2381099807841571" />
-      <entry key="S30" value="1.6199267625949456" />
-      <entry key="S60" value="1.8103932084124532" />
-      <entry key="M2" value="2.2272813059831416" />
-      <entry key="M5" value="3.8775979860025354" />
-      <entry key="M10" value="5.97147247304465" />
-      <entry key="M15" value="7.548903486379716" />
-      <entry key="M30" value="12.28439737417616" />
-      <entry key="H1" value="22.001268989830727" />
-      <entry key="H2" value="34.55439597891487" />
-      <entry key="H4" value="45.26613077857664" />
-      <entry key="D1" value="57.93197185279435" />
-      <entry key="W1" value="60.54923675014856" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000002005" />
+      <entry key="S5" value="1.0000083326106448" />
+      <entry key="S10" value="1.0028866261713207" />
+      <entry key="S30" value="1.1424971715926253" />
+      <entry key="S60" value="1.3883705259738484" />
+      <entry key="M2" value="1.7466517047204286" />
+      <entry key="M5" value="2.600636855039049" />
+      <entry key="M10" value="3.684307148405647" />
+      <entry key="M15" value="5.004065329009587" />
+      <entry key="M30" value="10.331306780228644" />
+      <entry key="H1" value="21.783663706190474" />
+      <entry key="H2" value="39.23617639423462" />
+      <entry key="H4" value="57.0356873848095" />
+      <entry key="D1" value="81.52283586093016" />
+      <entry key="W1" value="87.03526454387996" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.17927685164710874" />
-      <entry key="MS500" value="1.0328185156682366" />
-      <entry key="S2" value="1.6757451077249088" />
-      <entry key="S5" value="2.2058859364601755" />
-      <entry key="S10" value="3.90537618806067" />
-      <entry key="S30" value="8.790483187895058" />
-      <entry key="S60" value="11.519486571384213" />
-      <entry key="M2" value="15.343424642689339" />
-      <entry key="M5" value="29.953409809446605" />
-      <entry key="M10" value="52.59741763674003" />
-      <entry key="M15" value="73.94847792043575" />
-      <entry key="M30" value="146.23176796608482" />
-      <entry key="H1" value="282.0683965324307" />
-      <entry key="H2" value="441.6129578613534" />
-      <entry key="H4" value="570.5989508552544" />
-      <entry key="D1" value="717.9448049492098" />
-      <entry key="W1" value="747.8630976692248" />
+      <entry key="MS100" value="0.02704420660727882" />
+      <entry key="MS500" value="0.6933765899054781" />
+      <entry key="S2" value="1.5603279948442452" />
+      <entry key="S5" value="2.2129845690973293" />
+      <entry key="S10" value="3.5391031139487703" />
+      <entry key="S30" value="10.947098411756272" />
+      <entry key="S60" value="18.81519299537354" />
+      <entry key="M2" value="27.68323788869793" />
+      <entry key="M5" value="43.410024770737174" />
+      <entry key="M10" value="62.18879937366158" />
+      <entry key="M15" value="84.0113463699141" />
+      <entry key="M30" value="173.2249570288977" />
+      <entry key="H1" value="360.27690185003087" />
+      <entry key="H2" value="622.5883472699174" />
+      <entry key="H4" value="872.5157952488618" />
+      <entry key="D1" value="1199.7026825469486" />
+      <entry key="W1" value="1271.493744217269" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
@@ -137,6 +154,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.IfEx1.executor": "Run",
+    "Application.IfEx2.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OperationAssignment1.executor": "Run",
+    "Application.OperationAssignment2.executor": "Run",
+    "Application.OperationAssignment3.executor": "Run",
+    "Application.OperationAssignment4.executor": "Run",
+    "Application.OperationAssignment5.executor": "Run",
+    "Application.OperationAssignment6.executor": "Run",
+    "Application.OperationEx5.executor": "Run",
+    "Application.OperationQz4.executor": "Run",
     "Gradle.Java [:org.example.Main.main()].executor": "Run",
     "Gradle.Java [assemble].executor": "Run",
     "Gradle.Java [buildDependents].executor": "Run",
@@ -146,11 +174,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/gmlvkf282/Desktop/Java-Subject/Java/java/src/operator",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -159,10 +189,10 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/gmlvkf282/Desktop/Java-Subject/Java/mai/src/Main.java",
-    "project.structure.last.edited": "모듈",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "preferences.language.and.region",
     "to.speed.mode.migration.done": "true",
     "애플리케이션.BooleanEx.executor": "Run",
     "애플리케이션.CharacterEx1.executor": "Run",
@@ -187,18 +217,29 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/src/operator" />
+      <recent name="$PROJECT_DIR$/java/src/hello/operator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java/src" />
+      <recent name="$PROJECT_DIR$/java/src/hello" />
+      <recent name="$PROJECT_DIR$/java/src/chapter2" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="conditional" />
+      <recent name="operator.quiz" />
       <recent name="hello.operator" />
       <recent name="chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.OperationEx4">
-    <configuration name="OperationEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.operator.OperationEx1" />
-      <module name="java" />
+  <component name="RunManager" selected="Application.IfEx2">
+    <configuration name="IfEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional.IfEx1" />
+      <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.operator.*" />
+          <option name="PATTERN" value="conditional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.operator.OperationEx2" />
-      <module name="java" />
+    <configuration name="IfEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="conditional.IfEx2" />
+      <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.operator.*" />
+          <option name="PATTERN" value="conditional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.operator.OperationEx3" />
-      <module name="java" />
+    <configuration name="OperationAssignment6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.assigments.OperationAssignment6" />
+      <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.operator.*" />
+          <option name="PATTERN" value="operator.assigments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hello.operator.OperationEx4" />
-      <module name="java" />
+    <configuration name="OperationEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.OperationEx5" />
+      <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="hello.operator.*" />
+          <option name="PATTERN" value="operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,12 +286,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScopeAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2.ScopeAssignment" />
-      <module name="java" />
+    <configuration name="OperationQz4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operator.quiz.OperationQz4" />
+      <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2.*" />
+          <option name="PATTERN" value="operator.quiz.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,11 +301,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.OperationEx4" />
-        <item itemvalue="애플리케이션.OperationEx3" />
-        <item itemvalue="애플리케이션.OperationEx2" />
-        <item itemvalue="애플리케이션.OperationEx1" />
-        <item itemvalue="애플리케이션.ScopeAssignment" />
+        <item itemvalue="Application.IfEx2" />
+        <item itemvalue="Application.IfEx1" />
+        <item itemvalue="Application.OperationEx5" />
+        <item itemvalue="Application.OperationQz4" />
+        <item itemvalue="Application.OperationAssignment6" />
       </list>
     </recent_temporary>
   </component>

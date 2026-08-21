@@ -1,4 +1,4 @@
-package chapter2;
+package chapter2.assignments;
 
 /*
 다음 코드 중 컴파일 오류가 발생하는 문장을 모두 찾고,
