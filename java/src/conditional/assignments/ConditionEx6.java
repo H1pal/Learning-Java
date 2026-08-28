@@ -1,4 +1,4 @@
-package conditional;
+package conditional.assignments;
 /*
 • 클래스 이름: ConditionEx6
 • int score = 84; char grade; String result;
@@ -33,6 +33,6 @@ public class ConditionEx6 {
         }
 
         System.out.println("학점: " + grade);
-        System.out.println(result);
+        System.out.println("성취도: " + result);
     }
 }

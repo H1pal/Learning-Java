@@ -1,4 +1,4 @@
-package conditional;
+package conditional.assignments;
 /*
 • 클래스 이름: ConditionEx3
 • double distance = 8.5;

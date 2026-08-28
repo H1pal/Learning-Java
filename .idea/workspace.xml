@@ -5,37 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/conditional/IfEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/conditional/IfEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/operator/OperationEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/operator/assigments/OperationAssignment6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/operator/quiz/OperationQz4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/operator/quiz/OperationQz5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/BreakEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/ForEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/ForEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/WhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/WhileEx2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/chapter2/ScopeAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/ScopeQz1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/chapter2/VarAssignment1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/assignments/VarAssignment1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/chapter2/VarAssignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/assignments/VarAssignment2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/chapter2/VarAssignment3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/assignments/VarAssignment3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/chapter2/VarAssignment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/assignments/VarAssignment4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/hello/operator/OperationEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/operator/OperationEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/hello/operator/OperationEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/operator/OperationEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/hello/operator/OperationEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/operator/OperationEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/hello/operator/OperationEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/operator/OperationEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/chapter2/ScopeAssignment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/hello/operator/OperationEx1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/hello/operator/OperationEx2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/hello/operator/OperationEx3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/hello/operator/OperationEx4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/chapter2/IntegerExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/IntegerEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx9.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/chapter2/IntegerExample1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,61 +71,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="5.570135331388788E-4" />
-      <entry key="MS500" value="0.22345741431798763" />
-      <entry key="S2" value="0.7459630694251357" />
-      <entry key="S5" value="1.3116768401457994" />
-      <entry key="S10" value="2.6098696769003147" />
-      <entry key="S30" value="9.870270622137724" />
-      <entry key="S60" value="17.48054605416709" />
-      <entry key="M2" value="25.97491002542647" />
-      <entry key="M5" value="40.83243409469227" />
-      <entry key="M10" value="58.52005542737774" />
-      <entry key="M15" value="79.02074824751396" />
-      <entry key="M30" value="162.9069731618715" />
-      <entry key="H1" value="338.5075307706582" />
-      <entry key="H2" value="583.3654033048285" />
-      <entry key="H4" value="815.4899032305706" />
-      <entry key="D1" value="1118.1822201320754" />
-      <entry key="W1" value="1184.4588427654517" />
+      <entry key="MS100" value="1.9883456436999204E-6" />
+      <entry key="MS500" value="0.07332319313420473" />
+      <entry key="S2" value="1.1216488514031941" />
+      <entry key="S5" value="3.1333268289565246" />
+      <entry key="S10" value="4.635231188764413" />
+      <entry key="S30" value="6.158718778993662" />
+      <entry key="S60" value="7.62972911149806" />
+      <entry key="M2" value="13.259288418223077" />
+      <entry key="M5" value="32.058196964223995" />
+      <entry key="M10" value="62.30665317884581" />
+      <entry key="M15" value="89.4293074942567" />
+      <entry key="M30" value="160.14968446123723" />
+      <entry key="H1" value="306.1036944256659" />
+      <entry key="H2" value="565.4691031413995" />
+      <entry key="H4" value="865.4877947436855" />
+      <entry key="D1" value="1322.1070097979596" />
+      <entry key="W1" value="1430.7791278078073" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000000000002005" />
-      <entry key="S5" value="1.0000083326106448" />
-      <entry key="S10" value="1.0028866261713207" />
-      <entry key="S30" value="1.1424971715926253" />
-      <entry key="S60" value="1.3883705259738484" />
-      <entry key="M2" value="1.7466517047204286" />
-      <entry key="M5" value="2.600636855039049" />
-      <entry key="M10" value="3.684307148405647" />
-      <entry key="M15" value="5.004065329009587" />
-      <entry key="M30" value="10.331306780228644" />
-      <entry key="H1" value="21.783663706190474" />
-      <entry key="H2" value="39.23617639423462" />
-      <entry key="H4" value="57.0356873848095" />
-      <entry key="D1" value="81.52283586093016" />
-      <entry key="W1" value="87.03526454387996" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000000104" />
+      <entry key="S10" value="1.0000001026173324" />
+      <entry key="S30" value="1.0059332359487965" />
+      <entry key="S60" value="1.1238021737225328" />
+      <entry key="M2" value="1.6660874432427726" />
+      <entry key="M5" value="3.362021237044273" />
+      <entry key="M10" value="5.569865788575445" />
+      <entry key="M15" value="7.241394782987288" />
+      <entry key="M30" value="11.344781344480689" />
+      <entry key="H1" value="20.249524244850818" />
+      <entry key="H2" value="37.57496896150319" />
+      <entry key="H4" value="59.15845020010575" />
+      <entry key="D1" value="93.95179196463499" />
+      <entry key="W1" value="102.48276076807878" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.02704420660727882" />
-      <entry key="MS500" value="0.6933765899054781" />
-      <entry key="S2" value="1.5603279948442452" />
-      <entry key="S5" value="2.2129845690973293" />
-      <entry key="S10" value="3.5391031139487703" />
-      <entry key="S30" value="10.947098411756272" />
-      <entry key="S60" value="18.81519299537354" />
-      <entry key="M2" value="27.68323788869793" />
-      <entry key="M5" value="43.410024770737174" />
-      <entry key="M10" value="62.18879937366158" />
-      <entry key="M15" value="84.0113463699141" />
-      <entry key="M30" value="173.2249570288977" />
-      <entry key="H1" value="360.27690185003087" />
-      <entry key="H2" value="622.5883472699174" />
-      <entry key="H4" value="872.5157952488618" />
-      <entry key="D1" value="1199.7026825469486" />
-      <entry key="W1" value="1271.493744217269" />
+      <entry key="MS100" value="0.1330463619066284" />
+      <entry key="MS500" value="0.7076954476306273" />
+      <entry key="S2" value="1.91245366631893" />
+      <entry key="S5" value="3.981231352963938" />
+      <entry key="S10" value="5.534090038833449" />
+      <entry key="S30" value="7.122036313860842" />
+      <entry key="S60" value="8.726947778975758" />
+      <entry key="M2" value="14.902112227578474" />
+      <entry key="M5" value="35.39519923363645" />
+      <entry key="M10" value="67.85098064946692" />
+      <entry key="M15" value="96.64667597875423" />
+      <entry key="M30" value="171.47473576816694" />
+      <entry key="H1" value="326.3365634223445" />
+      <entry key="H2" value="603.0295484633457" />
+      <entry key="H4" value="924.6351268437445" />
+      <entry key="D1" value="1416.0559031776354" />
+      <entry key="W1" value="1533.2614376387073" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -154,6 +142,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BreakEx1.executor": "Run",
+    "Application.ConditionEx6.executor": "Run",
+    "Application.ForEx1.executor": "Run",
+    "Application.ForEx2.executor": "Run",
     "Application.IfEx1.executor": "Run",
     "Application.IfEx2.executor": "Run",
     "Application.Main.executor": "Run",
@@ -165,6 +157,9 @@
     "Application.OperationAssignment6.executor": "Run",
     "Application.OperationEx5.executor": "Run",
     "Application.OperationQz4.executor": "Run",
+    "Application.While.executor": "Run",
+    "Application.WhileEx1.executor": "Run",
+    "Application.WhileEx2.executor": "Run",
     "Gradle.Java [:org.example.Main.main()].executor": "Run",
     "Gradle.Java [assemble].executor": "Run",
     "Gradle.Java [buildDependents].executor": "Run",
@@ -192,7 +187,7 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.language.and.region",
+    "settings.editor.selected.configurable": "editing.templates",
     "to.speed.mode.migration.done": "true",
     "애플리케이션.BooleanEx.executor": "Run",
     "애플리케이션.CharacterEx1.executor": "Run",
@@ -227,19 +222,20 @@
       <recent name="$PROJECT_DIR$/java/src/chapter2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="loop" />
       <recent name="conditional" />
       <recent name="operator.quiz" />
       <recent name="hello.operator" />
       <recent name="chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IfEx2">
-    <configuration name="IfEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditional.IfEx1" />
+  <component name="RunManager" selected="Application.BreakEx1">
+    <configuration name="BreakEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.BreakEx1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditional.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +243,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conditional.IfEx2" />
+    <configuration name="ForEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ForEx1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="conditional.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationAssignment6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.assigments.OperationAssignment6" />
+    <configuration name="ForEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.ForEx2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.assigments.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.OperationEx5" />
+    <configuration name="WhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.WhileEx1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -286,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperationQz4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operator.quiz.OperationQz4" />
+    <configuration name="WhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.WhileEx2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="operator.quiz.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IfEx2" />
-        <item itemvalue="Application.IfEx1" />
-        <item itemvalue="Application.OperationEx5" />
-        <item itemvalue="Application.OperationQz4" />
-        <item itemvalue="Application.OperationAssignment6" />
+        <item itemvalue="Application.BreakEx1" />
+        <item itemvalue="Application.ForEx2" />
+        <item itemvalue="Application.ForEx1" />
+        <item itemvalue="Application.WhileEx2" />
+        <item itemvalue="Application.WhileEx1" />
       </list>
     </recent_temporary>
   </component>
