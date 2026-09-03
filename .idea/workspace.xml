@@ -4,26 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/java/src/loop/BreakEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/ForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/ForEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/WhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/WhileEx2.java" afterDir="false" />
+    <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="4차시: switch 조건문">
+      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/CharArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam1_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_For1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_For2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_For3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_While1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_While2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_While3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/chapter2/IntegerExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/chapter2/IntegerEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx8.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/conditional/ConditionEx9.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/conditional/assignments/ConditionEx9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/chapter2/IntegerExample1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,61 +76,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.9883456436999204E-6" />
-      <entry key="MS500" value="0.07332319313420473" />
-      <entry key="S2" value="1.1216488514031941" />
-      <entry key="S5" value="3.1333268289565246" />
-      <entry key="S10" value="4.635231188764413" />
-      <entry key="S30" value="6.158718778993662" />
-      <entry key="S60" value="7.62972911149806" />
-      <entry key="M2" value="13.259288418223077" />
-      <entry key="M5" value="32.058196964223995" />
-      <entry key="M10" value="62.30665317884581" />
-      <entry key="M15" value="89.4293074942567" />
-      <entry key="M30" value="160.14968446123723" />
-      <entry key="H1" value="306.1036944256659" />
-      <entry key="H2" value="565.4691031413995" />
-      <entry key="H4" value="865.4877947436855" />
-      <entry key="D1" value="1322.1070097979596" />
-      <entry key="W1" value="1430.7791278078073" />
+      <entry key="MS100" value="1.0000000006770589" />
+      <entry key="MS500" value="1.0155654445671702" />
+      <entry key="S2" value="1.6461676163262644" />
+      <entry key="S5" value="2.988179915253183" />
+      <entry key="S10" value="5.772418708087029" />
+      <entry key="S30" value="19.796275061198486" />
+      <entry key="S60" value="32.91933002399124" />
+      <entry key="M2" value="47.28441828357008" />
+      <entry key="M5" value="74.56310174008833" />
+      <entry key="M10" value="111.65031390525856" />
+      <entry key="M15" value="150.590861599362" />
+      <entry key="M30" value="275.9847139038298" />
+      <entry key="H1" value="501.7230789758872" />
+      <entry key="H2" value="850.7289265280832" />
+      <entry key="H4" value="1269.5989034198114" />
+      <entry key="D1" value="1972.8849552907059" />
+      <entry key="W1" value="2151.893876698856" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0000000000000104" />
-      <entry key="S10" value="1.0000001026173324" />
-      <entry key="S30" value="1.0059332359487965" />
-      <entry key="S60" value="1.1238021737225328" />
-      <entry key="M2" value="1.6660874432427726" />
-      <entry key="M5" value="3.362021237044273" />
-      <entry key="M10" value="5.569865788575445" />
-      <entry key="M15" value="7.241394782987288" />
-      <entry key="M30" value="11.344781344480689" />
-      <entry key="H1" value="20.249524244850818" />
-      <entry key="H2" value="37.57496896150319" />
-      <entry key="H4" value="59.15845020010575" />
-      <entry key="D1" value="93.95179196463499" />
-      <entry key="W1" value="102.48276076807878" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.0348109133894903E-71" />
+      <entry key="S2" value="2.123885082389385E-18" />
+      <entry key="S5" value="8.528102416249222E-8" />
+      <entry key="S10" value="2.9205114480525545E-4" />
+      <entry key="S30" value="0.0707018740451148" />
+      <entry key="S60" value="0.352218839316126" />
+      <entry key="M2" value="0.995753067107468" />
+      <entry key="M5" value="2.588949800375899" />
+      <entry key="M10" value="4.723390242563844" />
+      <entry key="M15" value="6.88661260231037" />
+      <entry key="M30" value="13.704287962680388" />
+      <entry key="H1" value="26.087932283194093" />
+      <entry key="H2" value="46.82383264082037" />
+      <entry key="H4" value="74.1037143123915" />
+      <entry key="D1" value="123.55157271044503" />
+      <entry key="W1" value="136.63614019590975" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.1330463619066284" />
-      <entry key="MS500" value="0.7076954476306273" />
-      <entry key="S2" value="1.91245366631893" />
-      <entry key="S5" value="3.981231352963938" />
-      <entry key="S10" value="5.534090038833449" />
-      <entry key="S30" value="7.122036313860842" />
-      <entry key="S60" value="8.726947778975758" />
-      <entry key="M2" value="14.902112227578474" />
-      <entry key="M5" value="35.39519923363645" />
-      <entry key="M10" value="67.85098064946692" />
-      <entry key="M15" value="96.64667597875423" />
-      <entry key="M30" value="171.47473576816694" />
-      <entry key="H1" value="326.3365634223445" />
-      <entry key="H2" value="603.0295484633457" />
-      <entry key="H4" value="924.6351268437445" />
-      <entry key="D1" value="1416.0559031776354" />
-      <entry key="W1" value="1533.2614376387073" />
+      <entry key="MS100" value="0.1258694437713423" />
+      <entry key="MS500" value="0.6677365933587082" />
+      <entry key="S2" value="1.4036097491215915" />
+      <entry key="S5" value="2.746567584058844" />
+      <entry key="S10" value="5.554625289612909" />
+      <entry key="S30" value="19.681456136741552" />
+      <entry key="S60" value="33.13101030218111" />
+      <entry key="M2" value="48.18459582954037" />
+      <entry key="M5" value="77.0919763785601" />
+      <entry key="M10" value="116.32845990543478" />
+      <entry key="M15" value="157.43764316755178" />
+      <entry key="M30" value="289.65490343269886" />
+      <entry key="H1" value="527.7822394676855" />
+      <entry key="H2" value="897.5297205885462" />
+      <entry key="H4" value="1343.6858033945261" />
+      <entry key="D1" value="2096.4321730294705" />
+      <entry key="W1" value="2288.5293365467883" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -142,12 +147,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayTest.executor": "Run",
+    "Application.ArrayTest2.executor": "Run",
     "Application.BreakEx1.executor": "Run",
+    "Application.CharArray.executor": "Run",
     "Application.ConditionEx6.executor": "Run",
     "Application.ForEx1.executor": "Run",
     "Application.ForEx2.executor": "Run",
+    "Application.ForExam1_1.executor": "Run",
+    "Application.ForExam1_2.executor": "Run",
+    "Application.ForExam1_3.executor": "Run",
+    "Application.ForExam1_4.executor": "Run",
+    "Application.ForExam2_1.executor": "Run",
+    "Application.ForExam2_2.executor": "Run",
     "Application.IfEx1.executor": "Run",
     "Application.IfEx2.executor": "Run",
+    "Application.LoopEx1.executor": "Run",
+    "Application.LoopEx2.executor": "Run",
+    "Application.LoopEx3.executor": "Run",
+    "Application.LoopEx4.executor": "Run",
+    "Application.LoopEx5.executor": "Run",
+    "Application.LoopEx6.executor": "Run",
+    "Application.LoopEx7.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OperationAssignment1.executor": "Run",
     "Application.OperationAssignment2.executor": "Run",
@@ -157,6 +178,13 @@
     "Application.OperationAssignment6.executor": "Run",
     "Application.OperationEx5.executor": "Run",
     "Application.OperationQz4.executor": "Run",
+    "Application.Quiz.executor": "Run",
+    "Application.Self_For1.executor": "Run",
+    "Application.Self_For2.executor": "Run",
+    "Application.Self_For3.executor": "Run",
+    "Application.Self_While1.executor": "Run",
+    "Application.Self_While2.executor": "Run",
+    "Application.Self_While3.executor": "Run",
     "Application.While.executor": "Run",
     "Application.WhileEx1.executor": "Run",
     "Application.WhileEx2.executor": "Run",
@@ -222,16 +250,55 @@
       <recent name="$PROJECT_DIR$/java/src/chapter2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="array" />
       <recent name="loop" />
+      <recent name="loop.assignments" />
       <recent name="conditional" />
       <recent name="operator.quiz" />
-      <recent name="hello.operator" />
-      <recent name="chapter2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BreakEx1">
-    <configuration name="BreakEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.BreakEx1" />
+  <component name="RunManager" selected="Application.CharArray">
+    <configuration name="ArrayTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayTest1" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ArrayTest2" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.CharArray" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Self_While2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Self_While2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -243,47 +310,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ForEx1" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ForEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ForEx2" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.WhileEx1" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WhileEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.WhileEx2" />
+    <configuration name="Self_While3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Self_While3" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -297,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BreakEx1" />
-        <item itemvalue="Application.ForEx2" />
-        <item itemvalue="Application.ForEx1" />
-        <item itemvalue="Application.WhileEx2" />
-        <item itemvalue="Application.WhileEx1" />
+        <item itemvalue="Application.CharArray" />
+        <item itemvalue="Application.ArrayTest2" />
+        <item itemvalue="Application.ArrayTest1" />
+        <item itemvalue="Application.Self_While3" />
+        <item itemvalue="Application.Self_While2" />
       </list>
     </recent_temporary>
   </component>
