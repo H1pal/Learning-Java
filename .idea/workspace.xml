@@ -5,30 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="4차시: switch 조건문">
-      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/CharArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam1_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/ForExam2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_For2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_For3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_While1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_While2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/Self_While3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/loop/assignments/LoopEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/array/CharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/array/CharArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/array/CharArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/array/CharArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +66,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -76,61 +80,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000006770589" />
-      <entry key="MS500" value="1.0155654445671702" />
-      <entry key="S2" value="1.6461676163262644" />
-      <entry key="S5" value="2.988179915253183" />
-      <entry key="S10" value="5.772418708087029" />
-      <entry key="S30" value="19.796275061198486" />
-      <entry key="S60" value="32.91933002399124" />
-      <entry key="M2" value="47.28441828357008" />
-      <entry key="M5" value="74.56310174008833" />
-      <entry key="M10" value="111.65031390525856" />
-      <entry key="M15" value="150.590861599362" />
-      <entry key="M30" value="275.9847139038298" />
-      <entry key="H1" value="501.7230789758872" />
-      <entry key="H2" value="850.7289265280832" />
-      <entry key="H4" value="1269.5989034198114" />
-      <entry key="D1" value="1972.8849552907059" />
-      <entry key="W1" value="2151.893876698856" />
+      <entry key="MS100" value="1.000000000000556" />
+      <entry key="MS500" value="1.00354658437517" />
+      <entry key="S2" value="1.3756615868524222" />
+      <entry key="S5" value="2.7373923218225134" />
+      <entry key="S10" value="4.6505793634034305" />
+      <entry key="S30" value="8.347251800511179" />
+      <entry key="S60" value="12.664996951961493" />
+      <entry key="M2" value="21.892543781769366" />
+      <entry key="M5" value="51.366876431477" />
+      <entry key="M10" value="110.22390365060114" />
+      <entry key="M15" value="171.00693306482563" />
+      <entry key="M30" value="342.9496514003085" />
+      <entry key="H1" value="637.8389695518455" />
+      <entry key="H2" value="1088.6903823851" />
+      <entry key="H4" value="1645.424841081841" />
+      <entry key="D1" value="2650.8516882412396" />
+      <entry key="W1" value="2920.9746576398306" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.0348109133894903E-71" />
-      <entry key="S2" value="2.123885082389385E-18" />
-      <entry key="S5" value="8.528102416249222E-8" />
-      <entry key="S10" value="2.9205114480525545E-4" />
-      <entry key="S30" value="0.0707018740451148" />
-      <entry key="S60" value="0.352218839316126" />
-      <entry key="M2" value="0.995753067107468" />
-      <entry key="M5" value="2.588949800375899" />
-      <entry key="M10" value="4.723390242563844" />
-      <entry key="M15" value="6.88661260231037" />
-      <entry key="M30" value="13.704287962680388" />
-      <entry key="H1" value="26.087932283194093" />
-      <entry key="H2" value="46.82383264082037" />
-      <entry key="H4" value="74.1037143123915" />
-      <entry key="D1" value="123.55157271044503" />
-      <entry key="W1" value="136.63614019590975" />
+      <entry key="MS100" value="7.246348858137293E-66" />
+      <entry key="MS500" value="9.376134910440671E-14" />
+      <entry key="S2" value="5.53357705554854E-4" />
+      <entry key="S5" value="0.049796908856764466" />
+      <entry key="S10" value="0.22315221006471003" />
+      <entry key="S30" value="0.606550752030904" />
+      <entry key="S60" value="0.7794720317755232" />
+      <entry key="M2" value="0.9427513587877046" />
+      <entry key="M5" value="2.229334254980503" />
+      <entry key="M10" value="5.619800852553581" />
+      <entry key="M15" value="9.183927790811433" />
+      <entry key="M30" value="19.39983456593553" />
+      <entry key="H1" value="36.743201622533036" />
+      <entry key="H2" value="63.44879153933969" />
+      <entry key="H4" value="98.26037363360386" />
+      <entry key="D1" value="165.6954116597306" />
+      <entry key="W1" value="184.55086265445345" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.1258694437713423" />
-      <entry key="MS500" value="0.6677365933587082" />
-      <entry key="S2" value="1.4036097491215915" />
-      <entry key="S5" value="2.746567584058844" />
-      <entry key="S10" value="5.554625289612909" />
-      <entry key="S30" value="19.681456136741552" />
-      <entry key="S60" value="33.13101030218111" />
-      <entry key="M2" value="48.18459582954037" />
-      <entry key="M5" value="77.0919763785601" />
-      <entry key="M10" value="116.32845990543478" />
-      <entry key="M15" value="157.43764316755178" />
-      <entry key="M30" value="289.65490343269886" />
-      <entry key="H1" value="527.7822394676855" />
-      <entry key="H2" value="897.5297205885462" />
-      <entry key="H4" value="1343.6858033945261" />
-      <entry key="D1" value="2096.4321730294705" />
-      <entry key="W1" value="2288.5293365467883" />
+      <entry key="MS100" value="0.0012975447403286238" />
+      <entry key="MS500" value="0.26475064916354885" />
+      <entry key="S2" value="0.9492068703322522" />
+      <entry key="S5" value="2.4701274771367125" />
+      <entry key="S10" value="4.640418235939535" />
+      <entry key="S30" value="8.83654721439593" />
+      <entry key="S60" value="13.376978960623278" />
+      <entry key="M2" value="22.79605764429779" />
+      <entry key="M5" value="53.56348706789309" />
+      <entry key="M10" value="115.80493781921986" />
+      <entry key="M15" value="180.14963810498614" />
+      <entry key="M30" value="362.3075624943464" />
+      <entry key="H1" value="674.5437036123934" />
+      <entry key="H2" value="1152.1074825409416" />
+      <entry key="H4" value="1743.6619475726402" />
+      <entry key="D1" value="2816.5409707098374" />
+      <entry key="W1" value="3105.5245569081935" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -147,8 +151,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayCopy.executor": "Run",
+    "Application.ArrayEam1_10.executor": "Run",
+    "Application.ArrayEam1_11.executor": "Run",
+    "Application.ArrayEam1_2.executor": "Run",
+    "Application.ArrayEam1_3.executor": "Run",
+    "Application.ArrayEam1_4.executor": "Run",
+    "Application.ArrayEam1_5.executor": "Run",
+    "Application.ArrayEam1_6.executor": "Run",
+    "Application.ArrayEam1_7.executor": "Run",
+    "Application.ArrayEam1_9.executor": "Run",
+    "Application.ArrayEx1.executor": "Run",
+    "Application.ArrayEx2.executor": "Run",
+    "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayEx4.executor": "Run",
+    "Application.ArrayEx5.executor": "Run",
+    "Application.ArrayEx6.executor": "Run",
+    "Application.ArrayEx7.executor": "Run",
     "Application.ArrayTest.executor": "Run",
     "Application.ArrayTest2.executor": "Run",
+    "Application.ArrayTest4.executor": "Run",
+    "Application.ArrayTest5.executor": "Run",
+    "Application.ArrayTest6.executor": "Run",
     "Application.BreakEx1.executor": "Run",
     "Application.CharArray.executor": "Run",
     "Application.ConditionEx6.executor": "Run",
@@ -212,11 +236,12 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "/Users/gmlvkf282/Desktop/Java-Subject/Java/mai/src/Main.java",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
+    "애플리케이션.ArrayEx7.executor": "Run",
     "애플리케이션.BooleanEx.executor": "Run",
     "애플리케이션.CharacterEx1.executor": "Run",
     "애플리케이션.CharacterEx3.executor": "Run",
@@ -250,20 +275,20 @@
       <recent name="$PROJECT_DIR$/java/src/chapter2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="array.assignments" />
       <recent name="array" />
       <recent name="loop" />
       <recent name="loop.assignments" />
       <recent name="conditional" />
-      <recent name="operator.quiz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CharArray">
-    <configuration name="ArrayTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayTest1" />
+  <component name="RunManager" selected="애플리케이션.ArrayEx7">
+    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx1" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -271,12 +296,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayTest2" />
+    <configuration name="ArrayEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +309,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.CharArray" />
+    <configuration name="ArrayEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx5" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +322,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Self_While2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Self_While2" />
+    <configuration name="ArrayEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx6" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="array.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,12 +335,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Self_While3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.Self_While3" />
+    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx7" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.*" />
+          <option name="PATTERN" value="array.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -325,19 +350,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CharArray" />
-        <item itemvalue="Application.ArrayTest2" />
-        <item itemvalue="Application.ArrayTest1" />
-        <item itemvalue="Application.Self_While3" />
-        <item itemvalue="Application.Self_While2" />
+        <item itemvalue="애플리케이션.ArrayEx7" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10315.125" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10315.125" />
       </set>
     </attachedChunks>
   </component>
