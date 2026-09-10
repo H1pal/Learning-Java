@@ -19,9 +19,17 @@ public class ArrayEx7 {
         char[] alpha2 = new char[13]; //‘N’에서부터 ‘Z’까지 저장
         char[] alpha = new char[26];
 
+        /*
         char a = 'A';
         for (int i = 0; i < alpha1.length; i++) alpha1[i] = a++;
         for (int i = 0; i < alpha2.length; i++) alpha2[i] = a++;
+        */
+
+        /* enhancement */
+        for (int i = 0;i < alpha1.length;i++) {
+            alpha1[i] = (char)('A' + i);
+            alpha2[i] = (char)('N' + i);
+        }
 
         System.arraycopy(alpha1, 0, alpha, 0, alpha1.length);
         System.arraycopy(alpha2, 0, alpha, alpha1.length, alpha2.length);
