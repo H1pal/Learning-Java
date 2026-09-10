@@ -13,8 +13,6 @@ char[] alpha = new char[26]; //두 배열을 복사하여 순서대로 입력
 결과 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 * */
 
-import java.util.Arrays;
-
 public class ArrayEx7 {
     public static void main(String[] args) {
         char[] alpha1 = new char[13]; //’A’에서부터 ‘M’까지 저장

@@ -5,38 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7489df22-9ca8-4bd1-902c-48ed135931e3" name="변경" comment="4차시: switch 조건문">
-      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/ArrayTest6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/array/books/ArrayExam1_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/array/CharArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/array/CharArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java/array/CharArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/array/CharArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx7.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/array/assignments/ArrayEx7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/array/assignments/ArrayEx7.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseLocalColorSettings">
+    <colors>
+      <entry key="913d438c-9544-43b5-9e68-e64d5932910a" value="" />
+    </colors>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="99" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -80,61 +69,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000000000000556" />
-      <entry key="MS500" value="1.00354658437517" />
-      <entry key="S2" value="1.3756615868524222" />
-      <entry key="S5" value="2.7373923218225134" />
-      <entry key="S10" value="4.6505793634034305" />
-      <entry key="S30" value="8.347251800511179" />
-      <entry key="S60" value="12.664996951961493" />
-      <entry key="M2" value="21.892543781769366" />
-      <entry key="M5" value="51.366876431477" />
-      <entry key="M10" value="110.22390365060114" />
-      <entry key="M15" value="171.00693306482563" />
-      <entry key="M30" value="342.9496514003085" />
-      <entry key="H1" value="637.8389695518455" />
-      <entry key="H2" value="1088.6903823851" />
-      <entry key="H4" value="1645.424841081841" />
-      <entry key="D1" value="2650.8516882412396" />
-      <entry key="W1" value="2920.9746576398306" />
+      <entry key="MS100" value="1.0267976207140384" />
+      <entry key="MS500" value="2.139700861601445" />
+      <entry key="S2" value="5.647185418827999" />
+      <entry key="S5" value="9.600159818105816" />
+      <entry key="S10" value="15.133465907709496" />
+      <entry key="S30" value="25.317855736341993" />
+      <entry key="S60" value="30.402782713373" />
+      <entry key="M2" value="33.78905724768729" />
+      <entry key="M5" value="36.19970518045471" />
+      <entry key="M10" value="37.07888069779651" />
+      <entry key="M15" value="37.381131188028824" />
+      <entry key="M30" value="37.736031406231696" />
+      <entry key="H1" value="45.40149358840254" />
+      <entry key="H2" value="156.77589084123738" />
+      <entry key="H4" value="583.3315158037117" />
+      <entry key="D1" value="2256.0024942951795" />
+      <entry key="W1" value="2902.764472996396" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.246348858137293E-66" />
-      <entry key="MS500" value="9.376134910440671E-14" />
-      <entry key="S2" value="5.53357705554854E-4" />
-      <entry key="S5" value="0.049796908856764466" />
-      <entry key="S10" value="0.22315221006471003" />
-      <entry key="S30" value="0.606550752030904" />
-      <entry key="S60" value="0.7794720317755232" />
-      <entry key="M2" value="0.9427513587877046" />
-      <entry key="M5" value="2.229334254980503" />
-      <entry key="M10" value="5.619800852553581" />
-      <entry key="M15" value="9.183927790811433" />
-      <entry key="M30" value="19.39983456593553" />
-      <entry key="H1" value="36.743201622533036" />
-      <entry key="H2" value="63.44879153933969" />
-      <entry key="H4" value="98.26037363360386" />
-      <entry key="D1" value="165.6954116597306" />
-      <entry key="W1" value="184.55086265445345" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="8.657243914129886E-234" />
+      <entry key="S60" value="2.9448066895629034E-117" />
+      <entry key="M2" value="5.79462444367982E-59" />
+      <entry key="M5" value="1.1577810582966654E-23" />
+      <entry key="M10" value="1.280697469082136E-11" />
+      <entry key="M15" value="1.590421399669461E-7" />
+      <entry key="M30" value="0.0025529358474948123" />
+      <entry key="H1" value="0.4215003440751759" />
+      <entry key="H2" value="6.7956941348247275" />
+      <entry key="H4" value="32.157601241101034" />
+      <entry key="D1" value="137.55024071749983" />
+      <entry key="W1" value="179.7075006882731" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.0012975447403286238" />
-      <entry key="MS500" value="0.26475064916354885" />
-      <entry key="S2" value="0.9492068703322522" />
-      <entry key="S5" value="2.4701274771367125" />
-      <entry key="S10" value="4.640418235939535" />
-      <entry key="S30" value="8.83654721439593" />
-      <entry key="S60" value="13.376978960623278" />
-      <entry key="M2" value="22.79605764429779" />
-      <entry key="M5" value="53.56348706789309" />
-      <entry key="M10" value="115.80493781921986" />
-      <entry key="M15" value="180.14963810498614" />
-      <entry key="M30" value="362.3075624943464" />
-      <entry key="H1" value="674.5437036123934" />
-      <entry key="H2" value="1152.1074825409416" />
-      <entry key="H4" value="1743.6619475726402" />
-      <entry key="D1" value="2816.5409707098374" />
-      <entry key="W1" value="3105.5245569081935" />
+      <entry key="MS100" value="0.17472817060103568" />
+      <entry key="MS500" value="1.619524854756428" />
+      <entry key="S2" value="5.439778993437063" />
+      <entry key="S5" value="9.506168862678363" />
+      <entry key="S10" value="15.083166238694403" />
+      <entry key="S30" value="25.29953521696806" />
+      <entry key="S60" value="30.393229357372974" />
+      <entry key="M2" value="33.78414422306731" />
+      <entry key="M5" value="36.197700039096574" />
+      <entry key="M10" value="37.07787073424656" />
+      <entry key="M15" value="37.38045633400115" />
+      <entry key="M30" value="37.738240443254405" />
+      <entry key="H1" value="45.82238288206742" />
+      <entry key="H2" value="163.56810421470803" />
+      <entry key="H4" value="615.4814574468159" />
+      <entry key="D1" value="2393.547638771739" />
+      <entry key="W1" value="3082.4710343890188" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -241,6 +230,12 @@
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
+    "애플리케이션.ArrayEx1.executor": "Run",
+    "애플리케이션.ArrayEx2.executor": "Run",
+    "애플리케이션.ArrayEx3.executor": "Run",
+    "애플리케이션.ArrayEx4.executor": "Run",
+    "애플리케이션.ArrayEx5.executor": "Run",
+    "애플리케이션.ArrayEx6.executor": "Run",
     "애플리케이션.ArrayEx7.executor": "Run",
     "애플리케이션.BooleanEx.executor": "Run",
     "애플리케이션.CharacterEx1.executor": "Run",
@@ -262,6 +257,11 @@
     "애플리케이션.Variable1.executor": "Run",
     "애플리케이션.Variable2.executor": "Run",
     "애플리케이션.hello.HelloWorld.executor": "Run"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mariadb"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -282,9 +282,9 @@
       <recent name="conditional" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.ArrayEx7">
-    <configuration name="ArrayEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx1" />
+  <component name="RunManager" selected="애플리케이션.ArrayEx6">
+    <configuration name="ArrayEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx2" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -296,8 +296,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx2" />
+    <configuration name="ArrayEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx3" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx4" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -335,22 +348,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.assignments.ArrayEx7" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.assignments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.ArrayEx7" />
+        <item itemvalue="애플리케이션.ArrayEx6" />
+        <item itemvalue="애플리케이션.ArrayEx5" />
+        <item itemvalue="애플리케이션.ArrayEx4" />
+        <item itemvalue="애플리케이션.ArrayEx3" />
+        <item itemvalue="애플리케이션.ArrayEx2" />
       </list>
     </recent_temporary>
   </component>
