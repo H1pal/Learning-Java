@@ -1,4 +1,4 @@
-package accessModifier.dateTest;
+package accessModifier.myDateTest;
 
 public class MyDateTest {
     MyDate date = new MyDate();

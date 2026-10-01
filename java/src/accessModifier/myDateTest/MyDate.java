@@ -1,4 +1,4 @@
-package accessModifier.dateTest;
+package accessModifier.myDateTest;
 
 public class MyDate {
     // public -> 아무렇게나 접근할 수 있어 위험
